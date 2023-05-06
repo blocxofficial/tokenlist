@@ -1,0 +1,54 @@
+{
+  "name": "Uniswap Default List",
+  "timestamp": "2023-05-06T10:17:19.544Z",
+  "version": {
+    "major": 1,
+    "minor": 8,
+    "patch": 6
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+  "keywords": ["uniswap", "default"],
+  "tokens": [
+    {
+      "name": "BTCB Token",
+      "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+      "symbol": "BTCB",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/Bscex/bscex-token-list/master/images/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c.png"
+    },
+    {
+      "name": "BlocX",
+      "address": "0x2f5fb3d3ab21bde07c5aa389e92366651b406c30",
+      "symbol": "BLX",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/BlocXOfficial/Logos-blocx/main/192x192.png"
+    },
+    {
+      "name": "BUSD Token",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/Bscex/bscex-token-list/master/images/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56.png"
+    },
+    {
+      "name": "Cake",
+      "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+      "symbol": "Cake",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/Bscex/bscex-token-list/master/images/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
+    },
+    {
+      "name": "Wrapped BNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/Bscex/bscex-token-list/master/images/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
+    }
+  ]
+}
