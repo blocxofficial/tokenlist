@@ -20,9 +20,9 @@
     },
     {
       "name": "BlocX",
-      "address": "0x2f5fb3d3ab21bde07c5aa389e92366651b406c30",
+      "address": "0xe9da86435265477bcde46c7e9aa7ace5aa7e2d18",
       "symbol": "BLX",
-      "decimals": 9,
+      "decimals": 18,
       "chainId": 56,
       "logoURI": "https://raw.githubusercontent.com/BlocXOfficial/Logos-blocx/main/192x192.png"
     },
